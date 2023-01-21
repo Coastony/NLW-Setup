@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
- <img src="src/assets/to-do-list.png" width="550" alt="Image project">
+ <img src="images/habits.png" width="550" alt="Image project">
 </p>
 
 ## 📁 Project access
