@@ -4,7 +4,7 @@
  
  ## ✔️ Techniques and technologies used
 
-- ``HTML5`` ``CSS3`` ``JavaScript`` ``TypeScript`` ``ReactJS`` ``TailwindCSS`` ``Axios`` ``Zod`` ``Radix UI``
+- ``HTML5`` ``CSS3`` ``JavaScript`` ``TypeScript`` ``ReactJS`` ``TailwindCSS`` ``Axios`` ``Zod`` ``Radix UI`` ``Prisma ORM``
 
 <br>
 
